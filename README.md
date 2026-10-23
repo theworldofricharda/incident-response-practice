@@ -35,7 +35,7 @@ Two activities carry their own extra materials: the PASTA worksheet ships with i
 
 ## About me
 
-I'm **Akintomide Richard Fadeyi**, working through the Google Cybersecurity Certificate and TryHackMe as part of moving into a security career. This portfolio and my [TryHackMe write-ups](https://github.com/theworldofricharda/tryhackme-ctf-writeups) are both built the same way: complete the work first, then explain it clearly enough that someone else could follow the reasoning.
+I'm **Akintomide R F**, aka **Syntaxfoxx**, working through the Google Cybersecurity Certificate and TryHackMe as part of moving into a security career. This portfolio and my [TryHackMe write-ups](https://github.com/theworldofricharda/tryhackme-ctf-writeups) are both built the same way: complete the work first, then explain it clearly enough that someone else could follow the reasoning.
 
 ## Licence
 
